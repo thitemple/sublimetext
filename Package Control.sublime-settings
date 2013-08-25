@@ -2,8 +2,16 @@
 	"installed_packages":
 	[
 		"AdvancedNewFile",
+		"AutoFileName",
 		"Emmet",
 		"Emmet Css Snippets",
-		"SCSS"
+		"Grunt",
+		"HTML5",
+		"JSLint",
+		"LiveReload",
+		"Package Control",
+		"PowerShell",
+		"SCSS",
+		"SublimeLinter"
 	]
 }
